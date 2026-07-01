@@ -8,14 +8,14 @@ Welcome to my verified credentials repository. This space serves as an organized
 
 | Sl. No. | Certificate / Achievement Name | Issuing Authority / Platform | View Document |
 | :---: | :--- | :--- | :---: |
-| 01 | **Azure AI Fundamentals Certificate** | Microsoft | [📄 View PDF](./Azure%20ai%20Fundamental%20Certificate.pdf) |
-| 02 | **Google Generative AI Certificate** | Google | [📄 View PDF](./Google_Generative%20Ai%20Certificate.pdf) |
-| 03 | **Microsoft AI Skills Challenge 2026** | Microsoft | [🖼️ View Image](./ai-skills-fest-2026%20Microsoft.png) |
-| 04 | **BCA Degree All Sem Marksheet** | RAICSIT | [📄 View PDF](./BCA%20Degree%20All%20Sem%20Marksheet.pdf) |
-| 05 | **Deloitte Job Simulation** | Forage / Deloitte | [📄 View PDF](./Job%20Simulation%20Deloitte.pdf) |
-| 06 | **Quantium Job Simulation** | Forage / Quantium | [📄 View PDF](./Job%20Simulation%20Quantium.pdf) |
-| 07 | **TCS Job Simulation** | Forage / TCS | [📄 View PDF](./Job%20Simulation%20TCS.pdf) |
-| 08 | **Professional Resume** | Akshay Datarkar | [📄 View PDF](./My%20Resume.pdf) |
+| 01 | **Azure AI Fundamentals Certificate** | ![](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [📄 View PDF](./Azure%20ai%20Fundamental%20Certificate.pdf) |
+| 02 | **Google Generative AI Certificate** | ![](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | [📄 View PDF](./Google_Generative%20Ai%20Certificate.pdf) |
+| 03 | **Microsoft AI Skills Challenge 2026** | ![](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | [🖼️ View Image](./ai-skills-fest-2026%20Microsoft.png) |
+| 04 | **BCA Degree All Sem Marksheet** | ![](https://img.shields.io/badge/RAICSIT-Graduate-00F2FE?style=flat-square) | [📄 View PDF](./BCA%20Degree%20All%20Sem%20Marksheet.pdf) |
+| 05 | **Deloitte Job Simulation** | ![](https://img.shields.io/badge/Deloitte-006699?style=flat-square&logo=deloitte&logoColor=white) | [📄 View PDF](./Job%20Simulation%20Deloitte.pdf) |
+| 06 | **Quantium Job Simulation** | ![](https://img.shields.io/badge/Quantium-000000?style=flat-square&logo=analytics&logoColor=white) | [📄 View PDF](./Job%20Simulation%20Quantium.pdf) |
+| 07 | **TCS Job Simulation** | ![](https://img.shields.io/badge/TCS-1B365D?style=flat-square&logo=tata&logoColor=white) | [📄 View PDF](./Job%20Simulation%20TCS.pdf) |
+| 08 | **Professional Resume** | ![](https://img.shields.io/badge/Verified-Resume-success?style=flat-square) | [📄 View PDF](./My%20Resume.pdf) |
 
 ---
 
